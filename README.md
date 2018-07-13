@@ -46,6 +46,7 @@ ___
 ## Resources
 
 Creating exercises:
+* [Interactive demo](https://elewa-academy.github.io/creating-exercises)
 * [Site for creating & sharing exercises](http://www.coding-exercises.com/)
 * [Udemy course on making exercises](https://www.udemy.com/coding-exercises/)
 
