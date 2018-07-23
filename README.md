@@ -53,7 +53,7 @@ Creating exercises:
 
 More self-learning skills:
 * [Step-through diagrams]()
-* Snippet Study: [gitbook](), [template]()
+* Snippet Study: coming soon
 
 
 [TOP](#creating-exercises)
